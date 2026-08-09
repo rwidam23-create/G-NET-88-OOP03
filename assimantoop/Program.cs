@@ -15,6 +15,22 @@
             //// but struct support Encapsulation only
             #endregion
             #endregion
+
+            #region Question02
+            #region(a)
+            //Shipment
+            #endregion
+            #region(b)
+            //Expressshipmant
+            #endregion
+            #region(c)
+            //TrackingCode
+            #endregion
+            #region(d)
+            //don't repeat code
+            //Maintainability
+            #endregion
+            #endregion
         }
     }
 }
